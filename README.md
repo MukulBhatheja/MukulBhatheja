@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MukulBhatheja
-- 👀 I’m interested in internship for the role of SDE/ Android Developer
-- 🌱 I’m currently learning Android Dev
+- 👀 I’m looking for the role of SDE
+- 🌱 I’m currently learning Web Development
 - 📫 How to reach me : mukulbhatheja@gmail.com
 
 <!---
